@@ -2,7 +2,7 @@
 
 <!--
 **sebajou/sebajou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[My linkedin profil](git@github.com:sebajou/sebajou.git)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Bridge](https://www.linkedin.com/company/leadformance/mycompany/)
