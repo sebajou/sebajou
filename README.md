@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**sebajou/sebajou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[My linkedin profil](git@github.com:sebajou/sebajou.git)
-Here are some ideas to get you started:
+### Hi there 👋 I am Sébastien Jourdan a backend oriented full stack developer with tropism for data
 
 - 🔭 I’m currently working on [Bridge](https://www.linkedin.com/company/leadformance/mycompany/)
 - 🌱 I’m currently learning [Quart, a Python framework for asynchronous microservices](https://pgjones.gitlab.io/quart/)
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me [on my linkedin profile](git@github.com:sebajou/sebajou.git)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
