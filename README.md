@@ -5,8 +5,8 @@
     </th>
     <th align="left">
         <p>- 🔭 I’m currently working on [Bridge](https://www.linkedin.com/company/leadformance/mycompany/)</p>
-        <p>- 🌱 I’m currently learning [Quart, a Python framework for asynchronous microservices](https://pgjones.gitlab.io/quart/)</p>
-        <p>- 👯 I’m looking to collaborate on a Open Source Quart project</p>
+        <p>- 🌱 I’m currently learning [FastAPI, a Python framework for asynchronous microservices](https://fastapi.tiangolo.com/)</p>
+        <p>- 👯 I’m looking to collaborate on a Open Source FastAPI project</p>
         <p>- 🤔 I’m looking for help with the mysterious meaning of the universe</p>
         <p>- 📫 How to reach me [on my linkedin profile](https://www.linkedin.com/in/s%C3%A9bastien-jourdan-2ba79860/)</p>
     </th>
