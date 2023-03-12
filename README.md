@@ -11,7 +11,7 @@
         <p>- 📫 How to reach me [on my linkedin profile](https://www.linkedin.com/in/s%C3%A9bastien-jourdan-2ba79860/)</p>
     </th>
     <th>
-    <img src="https://github.com/sebajou/sebajou/blob/main/img/photo_Seb.jpg" alt="Sébastien Jourdan" height="133" width="200" style="margin-right: 20px"/>
+    <img src="https://github.com/sebajou/sebajou/blob/main/img/photo_Seb.jpg" alt="Sébastien Jourdan" height="150" width="200" style="margin-right: 20px"/>
     </th>
 </table>
 
