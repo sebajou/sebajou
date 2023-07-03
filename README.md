@@ -8,7 +8,7 @@
         <p>- 🌱 I’m currently develope a side-porjet which use [FastAPI, a Python framework for asynchronous microservices](https://fastapi.tiangolo.com/) on microservice for provide LLM prediction results with GraphQl query</p>
         <p>- 👯 I’m looking to collaborate on a Open Source FastAPI project</p>
         <p>- 🤔 I’m looking for help with the mysterious meaning of the universe</p>
-        <p>- 📫 How to reach me [on my linkedin profile]([https://www.linkedin.com/in/s%C3%A9bastien-jourdan-2ba79860](https://www.linkedin.com/in/sebastien-jourdan-2ba79860/?locale=en_US)/)</p>
+        <p>- 📫 How to reach me [on my linkedin profile](https://www.linkedin.com/in/sebastien-jourdan-2ba79860/?locale=en_US)/)</p>
     </th>
     <th>
     <img src="https://github.com/sebajou/sebajou/blob/main/img/photo_Seb.jpg" alt="Sébastien Jourdan" style="margin-right: 20px"/>
