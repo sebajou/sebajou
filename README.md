@@ -4,14 +4,14 @@
         <img src="https://github.com/sebajou/sebajou/blob/main/img/bouquetin_alpha.png" alt="Seb bouquetin" height="170" width="225" style="margin-right: 20px"/>
     </th>
     <th align="left">
-        <p>- 🔭 I’m currently working on [Bridge](https://www.linkedin.com/company/leadformance/mycompany/)</p>
-        <p>- 🌱 I’m currently learning [FastAPI, a Python framework for asynchronous microservices](https://fastapi.tiangolo.com/)</p>
+        <p>- 🔭 I’m currently working on [Bridge](https://www.linkedin.com/company/leadformance/mycompany/) and [SLM](https://www.yelsterdigital.com/) </p>
+        <p>- 🌱 I’m currently develope a side-porjet which use [FastAPI, a Python framework for asynchronous microservices](https://fastapi.tiangolo.com/) on microservice for provide LLM prediction results with GraphQl query</p>
         <p>- 👯 I’m looking to collaborate on a Open Source FastAPI project</p>
         <p>- 🤔 I’m looking for help with the mysterious meaning of the universe</p>
-        <p>- 📫 How to reach me [on my linkedin profile](https://www.linkedin.com/in/s%C3%A9bastien-jourdan-2ba79860/)</p>
+        <p>- 📫 How to reach me [on my linkedin profile]([https://www.linkedin.com/in/s%C3%A9bastien-jourdan-2ba79860](https://www.linkedin.com/in/sebastien-jourdan-2ba79860/?locale=en_US)/)</p>
     </th>
     <th>
-    <img src="https://github.com/sebajou/sebajou/blob/main/img/photo_Seb.jpg" alt="Sébastien Jourdan" height="150" width="200" style="margin-right: 20px"/>
+    <img src="https://github.com/sebajou/sebajou/blob/main/img/photo_Seb.jpg" alt="Sébastien Jourdan" height="140" width="200" style="margin-right: 20px"/>
     </th>
 </table>
 
