@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Sébastien Jourdan a backend oriented full stack developer with tropism for data 
 <table  style="border: 0px solid transparent">
     <th>
-        <img src="https://github.com/sebajou/sebajou/blob/main/img/bouquetin_alpha.png" alt="Seb bouquetin" height="170" width="200" style="margin-right: 20px"/>
+        <img src="https://github.com/sebajou/sebajou/blob/main/img/bouquetin_alpha.png" alt="Seb bouquetin" style="margin-right: 20px"/>
     </th>
     <th align="left">
         <p>- 🔭 I’m currently working on [Bridge](https://www.linkedin.com/company/leadformance/mycompany/) and [SLM](https://www.yelsterdigital.com/) </p>
@@ -11,7 +11,7 @@
         <p>- 📫 How to reach me [on my linkedin profile]([https://www.linkedin.com/in/s%C3%A9bastien-jourdan-2ba79860](https://www.linkedin.com/in/sebastien-jourdan-2ba79860/?locale=en_US)/)</p>
     </th>
     <th>
-    <img src="https://github.com/sebajou/sebajou/blob/main/img/photo_Seb.jpg" alt="Sébastien Jourdan" height="150" width="150" style="margin-right: 20px"/>
+    <img src="https://github.com/sebajou/sebajou/blob/main/img/photo_Seb.jpg" alt="Sébastien Jourdan" style="margin-right: 20px"/>
     </th>
 </table>
 
